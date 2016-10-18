@@ -16,6 +16,7 @@
 body {
     font-family: open_sansregular;
     font-size: 12px;
+    background: url(../images/bg-sky.jpg);
 }
 h1 {
     font-size: 30px;
@@ -28,7 +29,7 @@ h1 {
     max-width: 425px;
     margin: 54px auto;
     padding: 47px 45px;
-    background: url(../images/psd-blue-login-box.png);
+    background: url(../images/bg-fotm.jpg);
     background-size: cover;
     background-position: center;
     color: #ffffff;
